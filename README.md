@@ -16,7 +16,7 @@
 <p align="center"><strong> Level up your career as a smart contract auditor writing secure and optimized smart contracts. 
 </strong></p>
 
-<div align="center">
+
 
 <ol>
 <li><a href="#table-of-contents">Table of Contents</a></li>
