@@ -18,20 +18,6 @@
 
 <div align="center">
 
-[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<p align="center">
-    <br />
-    <a href="https://cyfrin.io/">
-        <img src=".github/images/poweredbycyfrinblue.png" width="145" alt=""/></a>
-<a href="https://updraft.cyfrin.io/courses/security">
-        <img src=".github/images/coursebadge.png" width="242.3" alt=""/></a>
-    <br />
-</p>
-
 <ol>
 <li><a href="#table-of-contents">Table of Contents</a></li>
 </ol>
