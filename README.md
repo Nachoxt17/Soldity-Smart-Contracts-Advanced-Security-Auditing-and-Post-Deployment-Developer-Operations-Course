@@ -18,6 +18,18 @@
 
 
 
+# Table of Contents
+
+_Note: If you're familiar with Patrick's previous courses, we have renamed "Lessons" to "Sections"_
+## Smart Contract Auditing, Assembly, Security, and DeFi Ultimate Course
+<details>
+<summary>Smart Contract Auditing, Assembly, Security, and DeFi Ultimate Course</summary>
+<ol>
+<li><a href="#smart-contract-auditing-assembly-security-and-defi-ultimate-course">Smart Contract Auditing, Assembly, Security, and DeFi Ultimate Course</a></li>
+</ol>
+</details>
+<details>
+<summary>Table of Contents</summary>
 <ol>
 <li><a href="#table-of-contents">Table of Contents</a></li>
 </ol>
